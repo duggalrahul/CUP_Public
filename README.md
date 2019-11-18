@@ -6,6 +6,9 @@ The method is explained via the following figure.
 
 
 
+![](method.PNG)
+
+
 
 
 CUP offers the following major advantages
