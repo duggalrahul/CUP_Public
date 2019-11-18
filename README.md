@@ -4,24 +4,18 @@ This repository contains the code for our paper ([arxiv]()).
 
 The method is explained via the following figure.
 
-
-
 ![](method.PNG)
-
-
 
 
 CUP offers the following major advantages
 1. It affords non uniform layerwise pruning.
 
-   a. This allows CUP to achieve state of the art FLOPS reduction.
-   
+   a. This allows CUP to achieve state of the art FLOPS reduction.   
    b. Pruning amount is controlled using only one hyperparamter - t.
    
 2. Training time reduction
 
-   a. By linearly varying t during training time, CUP-SS can gradually reduce a models capacity. The final model thus obtained doesn't require any retraining.
-   
+   a. By linearly varying t during training time, CUP-SS can gradually reduce a models capacity. The final model thus obtained doesn't require any retraining.   
    b. This leads to large saving in training time.
 
 ### Contents
