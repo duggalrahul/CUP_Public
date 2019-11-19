@@ -38,9 +38,7 @@ To run this code, we suggest setting up a new anaconda environment as follows.
 
 ## Demo
 
-To reproduce results, you can either 
-   - download pre-trained models from [here](https://www.dropbox.com/sh/3jtt4bm4tqroa74/AACMR9Y3i8nZR91msxhKmLcga?dl=0) and place them inside the ```checkpoints``` folder
-   - or train (and prune) the models from scratch
+Pre-trained models available [here](https://www.dropbox.com/sh/3jtt4bm4tqroa74/AACMR9Y3i8nZR91msxhKmLcga?dl=0)
 
 To reproduce any experiment, perform the following steps
 
@@ -51,6 +49,7 @@ To reproduce any experiment, perform the following steps
 
 NOTES
 a. For MNIST and CIFAR-10 experiments, the dataset will be downloaded automatically.
+
 b. For Imagenet, you need to download the dataset and follow the instructions [here](https://github.com/facebookarchive/fb.resnet.torch/blob/master/INSTALL.md#download-the-imagenet-dataset)
    
 
