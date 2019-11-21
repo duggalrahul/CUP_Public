@@ -1,6 +1,6 @@
 ## CUP: Cluster Pruning for Compressing Deep Neural Networks
 
-This repository contains the code for our paper ([arxiv]()).
+This repository contains the code for our paper ([arxiv](https://arxiv.org/pdf/1911.08630.pdf)).
 
 The method is explained via the following figure.
 
